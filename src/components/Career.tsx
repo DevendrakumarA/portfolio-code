@@ -55,7 +55,7 @@ const Career = () => {
             <div className="career-info-in">
               <div className="career-role">
                 <h4>Web Developer</h4>
-                <h5>Adsever Media, Noida</h5>
+                <h5>The Planet Retail, Noida</h5>
               </div>
               <h4>Jan 2023 – May 2023</h4>
             </div>
